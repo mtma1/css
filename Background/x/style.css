@@ -1,0 +1,24 @@
+h1{
+    color: #c9bbbb;
+    background-color: aqua;/*commint*/
+}
+div h1{
+    
+    color: #ffa600;
+    background-image: url(../html-css/IMG_1481.jpg);/*text on image*/
+    background-size: contain/* width high مئة في المئة or use cover*/ ;
+}/* contain or cover*/
+div h2{
+    color: #11b4ac;
+
+    background-image: url(../html-css/242446.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;/* repeat x width or y you can use it*/
+    background-position: center bottom;/* background ware center in middile bottom under*/
+    background-attachment: fixed; /* make text move with out the background*/
+}
+div h3
+{color: #ffa600;
+
+
+}

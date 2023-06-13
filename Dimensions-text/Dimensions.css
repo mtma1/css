@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+}
+/*مقاس*/ 
+div p{
+    margin: 5px;
+    background-color: antiquewhite;
+   /*  --------------------- */
+    border: solid 5px;
+    border-color:rgb(177, 137, 137);
+    
+    /*---------------------- */
+    padding: 5px;
+    width: 50; /* 50% from all screen max-width*/
+    height: auto; /* also max-hright max tall*/
+
+    /*text-------------*/
+    color:rgb(105, 104, 100);
+    text-align:justify; /* متساوي justify make the text harmonic   متناسق*/
+    
+    text-align-last: center;/* make last line in center */
+    
+    text-decoration:underline;
+    /* text-decoration:overline;*/
+    /* text-decoration: line-through;*/
+    
+    
+    text-decoration-color: chocolate;/*color*/
+   
+    text-decoration-style:double; /*type or style for the text decoration*/
+   
+    text-indent: 4px; /*space in the frist line*/
+   
+    letter-spacing: 2px; /* space bitween the word */
+    
+    line-height: 25px;/*space bitween the Sentence up */
+    /*direction: rtl; text start from*/
+
+    /*word-spacing: 20px;*/
+
+    text-shadow: 3px 6px 2px/* (und4r/right/potrah دمعة)you can deleat the potreah  تحت على جنب */ rgb(0, 0, 0) ;
+
+   /*white-space: nowrap; يكمل على نفس السطر */ 
+}
